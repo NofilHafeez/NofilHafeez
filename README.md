@@ -24,8 +24,7 @@
 <span style="color:#64B5F6;">Languages.DevOps</span>: .............. Docker, Railway, Vercel, GitHub Actions
 
 <span style="color:#FFD54F;">Currently Learning</span>: ........... AI Agents, System Design,
-                                      DevOps, Java Backend
-
+                              
 --------------------------------------------------------------
 Contact
 --------------------------------------------------------------
@@ -41,7 +40,7 @@ GitHub Stats
 Repos: ............ 20+
 Projects: ......... UBIT-LMS | Financial Analysis | AI Agents
 Focus: ............ Full-Stack Development & AI
-Open Source: ...... Always Learning 🚀
+Open Source: ...... Always Learning!
 </pre>
 
 </td>
