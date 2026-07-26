@@ -1,43 +1,52 @@
-<!--
-  Neofetch-style GitHub profile README
-  Replace the bracketed [ ] placeholders with your own info.
-  Tip: to get a custom ASCII portrait like this one, run your own photo
-  through a tool such as `ascii-image-converter` or `jp2a`.
--->
+<table>
+<tr>
+<td width="35%" align="center">
 
-```
-                      %%@%%%                          [username]@[hostname]
-                   @@@@@@@@@@@%%                      --------------------------------
-                  %@@@@@@@@@@@@@%                     OS: .......................... [e.g. Windows 11, Arch Linux]
-                %%@@@@@@@@%%##%@%%                    Uptime: ...................... [e.g. 21 years, 3 months]
-                %%#######*+==--=%%%                   Host: ......................... [company / school name]
-                %#++++++++==----=##                   Kernel: ....................... [your role/title]
-                #*#%@@%*+*#%%#*+-+                    IDE: .......................... [e.g. VSCode 1.9x, IntelliJ IDEA]
-                *+#%%%%%*-+%%**=--=
-                ***#####+-=+*+==-=-                   Languages.Programming: ........ [e.g. Python, TypeScript, Go]
-                ********+-:-===----                   Languages.Computer: ........... [e.g. HTML, CSS, SQL, YAML]
-                 ********=--=+=--                     Languages.Real: ............... [e.g. English, Urdu]
-                  **###%#*+++*+--
-                   *####**+=-=--                      Hobbies.Software: ............. [e.g. Game Dev, Open Source]
-                 @@@###**++====#@%                    Hobbies.Hardware: ............. [e.g. PC Building, Robotics]
-                %%@@%#%%%#**+=+%@##
-                %%@@@@%%%#+**#%%%##                   - Contact ------------------------------
-            %%%%@@@@@@@@%%@%@@%%%%%%%%                Email.Personal: ............... [you@gmail.com]
-         %%%%%@@@@@@@@@@@%%%@@%%%%@%%%%%%%            Email.Work: ................... [you@company.com]
-     %%%%%%%@@@@@@@@@@@@@%%%@%%@@%%%%%%%%%%%##        LinkedIn: ..................... [linkedin.com/in/you]
-   %%%%%%@@%@@@@@@@@@@@@@@@@@@%@@%%%%%%%%%%%%%%#      Discord: ...................... [yourhandle]
- %%%%%%%%%%%%@@@%@@@@@@@@%%%@@@@%%%%%%%%%%%%%%%%#
-%%%@@@%%@%@@%@%@%%@@@@@@@%%%@@%%%%%%%%%%%%%%%%%%##    - GitHub Stats -------------------------
-%%@@@@@%%@@%%%%%@%%@@@@@@%%%@@@%%%%%%%%%%%%%%%%%%#    Repos: ........................ [N] {Contributed: [N]} | Stars: [N]
-%@@@@@@%%@@@@%@@%%%%@@@%%%%%@@@%%%%%%%%%%%%%%%%%%#    Commits: ...................... [N] | Followers: [N]
-@@@@@@@@@@@@@%%@%%%%@@%%@@%%@@%%%%%%%%%%%%%%%%%%%%    Lines of Code on GitHub: ...... [N] ( +[N]++, -[N]-- )
+<img src="/assets/img1.jpg" width="280"/>
 
-```
+</td>
 
-<!--
-  Optional: dynamic, always-up-to-date GitHub stats cards instead of typing
-  numbers by hand. Swap in your username:
+<td width="65%">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-  ![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)
--->
+```text
+Nofil@GitHub
+--------------------------------
+OS: Windows 11
+Host: University of Karachi
+Kernel: BS Computer Science
+IDE: VS Code
+
+Languages.Programming:
+  • JavaScript
+  • TypeScript
+  • Python
+  • Java
+  • C++
+
+Languages.Web:
+  • React
+  • Next.js
+  • Node.js
+  • Express
+  • Tailwind CSS
+
+Database:
+  • MongoDB
+  • PostgreSQL
+  • Prisma
+
+Cloud:
+  • Docker
+  • Vercel
+  • Railway
+  • Koyeb
+
+Currently Learning:
+  • AI Agents
+  • System Design
+  • DevOps
+  • Java Backend
+
+Contact:
+  Email: your@email.com
+  LinkedIn: linkedin.com/in/yourprofile
