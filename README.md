@@ -1,13 +1,15 @@
 <table>
 <tr>
 
-<img src="/assets/img1.jpg" width="350"/>
+<td width="35%" align="center">
+
+<img src="assets/img1.jpg" width="320">
 
 </td>
 
-<td width="55%">
+<td width="65%" valign="top">
 
-```text
+<pre>
 Nofil@GitHub
 --------------------------------
 OS: Windows 11
@@ -49,3 +51,9 @@ Currently Learning:
 Contact:
   Email: your@email.com
   LinkedIn: linkedin.com/in/yourprofile
+</pre>
+
+</td>
+
+</tr>
+</table>
