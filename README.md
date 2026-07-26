@@ -1,160 +1,59 @@
-<table>
-<tr>
+<div align="center">
 
-<td width="50%" valign="top">
+# Nofil Abdul Hafeez
 
-# 👋 Nofil Abdul Hafeez
+**Full Stack Developer · AI Enthusiast · Computer Science Student**
 
-### Full Stack Developer • AI Enthusiast • Computer Science Student
+Computer Science student at the University of Karachi, building scalable web systems and AI-powered applications.
 
-I'm a Computer Science student at the **University of Karachi** passionate about building scalable software, AI-powered applications, and modern web systems.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](#)
 
-Currently focusing on:
+</div>
 
-- 🤖 AI Agents & Multi-Agent Systems
-- 🌐 Full Stack Development (MERN + Next.js)
-- ☕ Java Backend Development
-- 🐳 DevOps & Cloud Deployment
-- 🏗️ System Design & Distributed Systems
+---
 
 ### Tech Stack
 
-**Languages**
-- JavaScript
-- TypeScript
-- Python
-- Java
-- C++
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-**Frontend**
-- React
-- Next.js
-- Tailwind CSS
-
-**Backend**
-- Node.js
-- Express
-- REST APIs
-
-**Databases**
-- MongoDB
-- PostgreSQL
-- Prisma
-
-**Cloud & DevOps**
-- Docker
-- GitHub Actions
-- Railway
-- Vercel
-- Koyeb
+**Currently exploring:** AI agents & agentic workflows, LLM engineering, system design, and Java Spring Boot.
 
 ---
 
-### Currently Learning
+### Featured Projects
 
-- AI Agents
-- Agentic Workflows
-- LLM Engineering
-- System Design
-- Java Spring Boot
-- Kubernetes
+**[UBIT-LMS](#)** — Full-featured Learning Management System with student, teacher, and admin portals covering course management, attendance, assignments, and authentication.
+`React` `TypeScript` `Node.js` `MongoDB` `Redis`
 
-</td>
+**[Financial Analysis Platform](#)** — Interactive dashboard for analyzing company financial statements — income statements, balance sheets, cash flow, and key ratios with visualizations.
+`React` `Node.js` `PostgreSQL`
 
-<td width="50%" valign="top">
+**[Trust Arena](#)** — Multi-agent framework where competing LLMs play the Iterated Prisoner's Dilemma, featuring memory-based strategy, lie detection, and opponent profiling.
+`Python` `Groq API` `Gemini API`
 
-# 🚀 Featured Projects
-
-## 🎓 UBIT-LMS
-
-A complete Learning Management System built from scratch.
-
-### Features
-
-- Student Portal
-- Teacher Portal
-- Admin Dashboard
-- Attendance System
-- Assignment Submission
-- Course Management
-- Semester Management
-- Authentication & Authorization
-- File Uploads
-- Notifications
-- Responsive UI
-
-**Tech**
-
-React • TypeScript • Node.js • Express • MongoDB • Redis • Tailwind CSS
+**[KU-MAP](#)** — Campus navigation system for the University of Karachi using graph algorithms for shortest-path route finding.
+`C++` `Dijkstra` `DFS/BFS`
 
 ---
 
-## 💹 Financial Analysis Platform
+<div align="center">
 
-Interactive dashboard for analyzing company financial statements.
+*Open to collaborating on open-source projects and AI/full-stack engineering work.*
 
-### Features
-
-- Income Statement
-- Balance Sheet
-- Cash Flow
-- Financial Ratios
-- Data Visualization
-- Company Search
-
-**Tech**
-
-React • Node.js • Express • PostgreSQL
-
----
-
-## 🤖 Trust Arena (Multi-Agent AI)
-
-An experimental framework where multiple LLMs compete in the Iterated Prisoner's Dilemma.
-
-### Features
-
-- Groq Agent
-- Gemini Agent
-- Memory Engine
-- Grim Trigger Strategy
-- Lie Detection
-- Opponent Profiling
-- Tournament Simulator
-- Dynamic Prompt Engineering
-
-**Tech**
-
-Python • Groq API • Gemini API • Prompt Engineering
-
----
-
-## 🗺️ KU-MAP
-
-Campus navigation system for the University of Karachi.
-
-### Features
-
-- Graph Algorithms
-- Shortest Path
-- Route Finder
-- Interactive Navigation
-
-**Tech**
-
-C++ • Graph Theory • Dijkstra • DFS • BFS
-
----
-
-### Goals
-
-- Build production-grade AI systems
-- Contribute to Open Source
-- Become a Software Engineer
-- Learn Distributed Systems
-- Publish technical articles
-
-</td>
-
-</tr>
-</table>
+</div>
