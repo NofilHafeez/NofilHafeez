@@ -2,11 +2,11 @@
 <tr>
 <td width="35%" align="center">
 
-<img src="/assets/img1.jpg" width="280"/>
+<img src="/assets/img1.jpg" width="380"/>
 
 </td>
 
-<td width="65%">
+<td width="75%">
 
 ```text
 Nofil@GitHub
