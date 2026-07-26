@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="assets/img3.png" width="100%">
+  <img src="assets/img4.png" width="100%">
 </p>
