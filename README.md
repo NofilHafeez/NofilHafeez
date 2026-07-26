@@ -4,7 +4,6 @@
 -->
 
 ```
-
                @@@@@@$$$$$$$                      [username]@[hostname]
            $$$$$$$$#############                  --------------------------------
         #$$$$####******!!!!!!!***#                OS: .......................... [e.g. Windows 11, Arch Linux]
@@ -24,12 +23,8 @@
      ,-~~~~~~::::;;;====!=!!=;~,                  Email.Personal: ............... [you@gmail.com]
        .,---~~~~:::;;;===;::-                     Email.Work: ................... [you@company.com]
           ..,,---~-~~~~-,.                        LinkedIn: ..................... [linkedin.com/in/you]
-                                                  Discord: ...................... [yourhandle]
                                                   
-                                                  - GitHub Stats -------------------------
-                                                  Repos: ........................ [N] {Contributed: [N]} | Stars: [N]
-                                                  Commits: ...................... [N] | Followers: [N]
-                                                  Lines of Code on GitHub: ...... [N] ( +[N]++, -[N]-- )
+                                                  
 ```
 
 <!--
