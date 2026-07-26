@@ -8,6 +8,7 @@
 <td width="65%" valign="top">
 
 <pre>
+
 [username]@[hostname]
 --------------------------------
 OS: .......................... [e.g. Windows 11, Arch Linux]
@@ -33,6 +34,8 @@ Discord: ...................... [yourhandle]
 Repos: ........................ [N] {Contributed: [N]} | Stars: [N]
 Commits: ...................... [N] | Followers: [N]
 Lines of Code on GitHub: ...... [N] ( +[N]++, -[N]-- )
+</pre>
+
 </td>
 
 </tr>
