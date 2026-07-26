@@ -1,11 +1,6 @@
-<table>
-<tr>
-
-<td width="35%" valign="top" align="center">
-    <img src="assets/img2.jpg" width="320" >
-</td>
-
-<td width="65%" valign="top">
+<p align="left">
+  <img src="assets/img2.jpg" width="320" align="left" />
+</p>
 
 <pre>
 
@@ -36,7 +31,4 @@ Commits: ...................... [N] | Followers: [N]
 Lines of Code on GitHub: ...... [N] ( +[N]++, -[N]-- )
 </pre>
 
-</td>
-
-</tr>
-</table>
+<br clear="left">
