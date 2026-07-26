@@ -1,10 +1,8 @@
 <table>
 <tr>
 
-<td width="75%" valign="center">
-
-<img src="assets/img1.jpg" width="320">
-
+<td width="35%" valign="top" align="center">
+    <img src="assets/img1.jpg" width="320">
 </td>
 
 <td width="65%" valign="top">
