@@ -3,10 +3,10 @@
   in place of a portrait. Replace the bracketed [ ] placeholders with your own info.
 -->
 
-```
+<pre>
                @@@@@@$$$$$$$                      [username]@[hostname]
            $$$$$$$$#############                  --------------------------------
-        #$$$$####******!!!!!!!***#                OS: .......................... [e.g. Windows 11, Arch Linux]
+        #$$$$####******!!!!!!!***#                <span style="color:#ff9800;">OS:</span>: .......................... <span style="color:#58a6ff;">Windows 11</span>
       #######***!!!!!!==!!!!!!===!!               Uptime: ...................... [e.g. 21 years, 3 months]
      ####*****!!!!!===;;::::;;;=;==!!             Host: ......................... [company / school name]
     ******!!!!!==;;::~~~~~~~~~~::;;==             Kernel: ....................... [your role/title]
@@ -25,7 +25,7 @@
           ..,,---~-~~~~-,.                        LinkedIn: ..................... [linkedin.com/in/you]
                                                   
                                                   
-```
+</pre>
 
 <!--
   Optional: dynamic, always-up-to-date GitHub stats cards instead of typing
