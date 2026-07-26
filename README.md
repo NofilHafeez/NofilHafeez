@@ -2,7 +2,7 @@
 <tr>
 
 <td width="35%" valign="top" align="center">
-    <img src="assets/img1.jpg" width="320" >
+    <img src="assets/img2.jpg" width="320" >
 </td>
 
 <td width="65%" valign="top">
